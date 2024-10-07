@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UsingAPI</string>
+    <string name="add_user">Crear usuario</string>
+</resources>
